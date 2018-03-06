@@ -504,7 +504,7 @@ class GameOfLife {
   }
 }
 
-// Simulate an GOL
+// Simulate a GOL
 document.addEventListener(
   "DOMContentLoaded",
   () => {
