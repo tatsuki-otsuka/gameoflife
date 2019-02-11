@@ -1,4 +1,5 @@
 # gameoflife
 Mathematitian John Conway's Game of Life
 
-Simulator in action: https://otsuka.io/gameoflife/
+## Simulator in action
+https://otsuka.io/playground/gameoflife/
