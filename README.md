@@ -2,4 +2,4 @@
 Mathematitian John Conway's Game of Life
 
 ## Simulator in action
-https://otsuka.io/playground/gameoflife/
+https://tatsuky.com/playground/gameoflife/
